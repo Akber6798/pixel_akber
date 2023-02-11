@@ -1,4 +1,4 @@
-## pixel App
+## Pixel App
 
 A new Flutter project.
 
