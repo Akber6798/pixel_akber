@@ -1,6 +1,6 @@
 ## Pixel App
 
-A new Flutter project.
+Pixel App is ecommerce api app with firebase athentication and provider state management.
 
 ## Getting Started
 
